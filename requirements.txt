@@ -31,5 +31,4 @@ tzdata==2026.6
 urllib3==2.8.0
 Werkzeug==3.1.9
 zipp==4.1.2
-
 gunicorn
